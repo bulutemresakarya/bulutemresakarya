@@ -1,42 +1,38 @@
-👋 Merhaba, Ben Bulut Emre Sakarya
+# 👋 Merhaba, Ben Bulut Emre Sakarya
 
-RPA & Otomasyon Geliştirici | Yönetim Bilişim Sistemleri Öğrencisi 
+**RPA & Otomasyon Geliştirici | [cite_start]Yönetim Bilişim Sistemleri Öğrencisi** [cite: 3]
 
-İşletmelerin operasyonel yüklerini hafifleten, yapay zekâ destekli otomasyon çözümleri ve veri odaklı araçlar geliştiriyorum. Karmaşık iş problemlerini teknolojiyle çözerek insan hatasını minimize etmeye ve süreçleri ölçeklendirmeye odaklanıyorum.
-🛠️ Teknik Yetkinlikler
+İşletmelerin operasyonel yüklerini hafifleten, yapay zekâ destekli otomasyon çözümleri ve veri odaklı araçlar geliştiriyorum. [cite_start]Karmaşık iş problemlerini teknolojiyle çözerek insan hatasını minimize etmeye ve süreçleri ölçeklendirmeye odaklanıyorum. [cite: 3]
 
-    Diller: Python, JavaScript (Node.js), SQL 
+---
 
-    Otomasyon & Bot: Selenium, Puppeteer, Web Scraping, Telegram API, WhatsApp.js 
+### 🛠️ Teknik Yetkinlikler
+* [cite_start]**Diller:** Python, JavaScript (Node.js), SQL [cite: 3]
+* [cite_start]**Otomasyon & Bot:** Selenium, Puppeteer, Web Scraping, Telegram API, WhatsApp.js [cite: 3]
+* [cite_start]**Yapay Zekâ:** OpenAI API Entegrasyonları [cite: 3]
+* [cite_start]**Veri & Analiz:** Pandas, NumPy, Google Sheets, Excel [cite: 3]
+* [cite_start]**Veritabanı:** PostgreSQL, SQLite [cite: 3]
 
-    Yapay Zekâ: OpenAI API Entegrasyonları 
+---
 
-    Veri & Analiz: Pandas, NumPy, Google Sheets, Excel 
+### 🚀 Öne Çıkan Projeler (Case Studies)
+*Aşağıdaki projeler ticari ürünler olarak geliştirilmiştir ve kaynak kodları gizlidir.*
 
-    Veritabanı: PostgreSQL, SQLite 
+* [cite_start]**Lojistik WhatsApp & AI Chatbot:** Gelen karmaşık lojistik mesajlarını yapay zekâ ile parse ederek veritabanına işleyen tam otomatize sistem. [cite: 3]
+* **Oyun Ekonomisi & Pazar Analiz Botları:** Özellikle **Albion Online** gibi oyunlarda pazar verilerini anlık takip eden ve yatırım tavsiyesi üreten algoritmalar.
+* [cite_start]**Ofis Performans Dashboard:** Operasyonel verileri görselleştirerek karar destek süreci sağlayan interaktif paneller. [cite: 3]
 
-🚀 Öne Çıkan Projeler (Case Studies)
+---
 
-Aşağıdaki projeler ticari ürünler olarak geliştirilmiştir ve kaynak kodları gizlidir.
+### 📜 Sertifikalar
+* [cite_start]**AWS Certified Cloud Practitioner (CLF-C02)** [cite: 3]
+* [cite_start]**Yapay Zeka Etiği** [cite: 3]
+* [cite_start]**İletişim ve Network Yönetimi** [cite: 3]
+* [cite_start]**Etkili İletişim Stratejileri** [cite: 3]
 
-    Lojistik WhatsApp & AI Chatbot: Gelen karmaşık lojistik mesajlarını yapay zekâ ile parse ederek veritabanına işleyen tam otomatize sistem.
+---
 
-    Oyun Ekonomisi & Pazar Analiz Botları: Özellikle Albion Online gibi oyunlarda pazar verilerini anlık takip eden ve yatırım tavsiyesi üreten algoritmalar.
-
-    Ofis Performans Dashboard: Operasyonel verileri görselleştirerek karar destek süreci sağlayan interaktif paneller.
-
-📜 Sertifikalar
-
-    AWS Certified Cloud Practitioner (CLF-C02) 
-
-    Yapay Zeka Etiği 
-
-    İletişim ve Network Yönetimi 
-
-📫 Benimle İletişime Geçin
-
-    LinkedIn: linkedin.com/in/bulut-sakarya 
-
-    E-posta: sbulutemre@gmail.com 
-
-    Konum: Kartepe/Kocaeli
+### 📫 Benimle İletişime Geçin
+* [cite_start]**LinkedIn:** [linkedin.com/in/bulut-sakarya](https://linkedin.com/in/bulut-sakarya) [cite: 3]
+* [cite_start]**E-posta:** sbulutemre@gmail.com [cite: 3]
+* [cite_start]**Konum:** Kartepe/Kocaeli [cite: 3]
