@@ -24,6 +24,6 @@
 ---
 
 ### 📫 Benimle İletişime Geçin
-* **LinkedIn:** linkedin.com/in/bulut-sakarya
+* **LinkedIn:** www.linkedin.com/in/bulut-sakarya
 * **E-posta:** sbulutemre@gmail.com
 * **Konum:** Kartepe/Kocaeli
