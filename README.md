@@ -1,8 +1,8 @@
 # 👋 Merhaba, Ben Bulut Emre Sakarya
 
-**RPA & Otomasyon Geliştirici | [cite_start]Yönetim Bilişim Sistemleri Öğrencisi** [cite: 3]
+**RPA & Otomasyon Geliştirici | Yönetim Bilişim Sistemleri Öğrencisi**
 
-İşletmelerin operasyonel yüklerini hafifleten, yapay zekâ destekli otomasyon çözümleri ve veri odaklı araçlar geliştiriyorum. [cite_start]Karmaşık iş problemlerini teknolojiyle çözerek insan hatasını minimize etmeye ve süreçleri ölçeklendirmeye odaklanıyorum. [cite: 3]
+İşletmelerin operasyonel yüklerini hafifleten, yapay zekâ destekli otomasyon çözümleri ve veri odaklı araçlar geliştiriyorum. Karmaşık iş problemlerini teknolojiyle çözerek insan hatasını minimize etmeye ve süreçleri ölçeklendirmeye odaklanıyorum.
 
 ---
 
@@ -19,7 +19,7 @@
 *Aşağıdaki projeler ticari ürünler olarak geliştirilmiştir ve kaynak kodları gizlidir.*
 
 * [cite_start]**Lojistik WhatsApp & AI Chatbot:** Gelen karmaşık lojistik mesajlarını yapay zekâ ile parse ederek veritabanına işleyen tam otomatize sistem. [cite: 3]
-* **Oyun Ekonomisi & Pazar Analiz Botları:** Özellikle **Albion Online** gibi oyunlarda pazar verilerini anlık takip eden ve yatırım tavsiyesi üreten algoritmalar.
+* [cite_start]**Oyun Ekonomisi & Pazar Analiz Botları:** Özellikle **Albion Online** gibi oyunlarda pazar verilerini anlık takip eden ve yatırım tavsiyesi üreten algoritmalar. [cite: 3]
 * [cite_start]**Ofis Performans Dashboard:** Operasyonel verileri görselleştirerek karar destek süreci sağlayan interaktif paneller. [cite: 3]
 
 ---
