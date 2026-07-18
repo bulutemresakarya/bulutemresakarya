@@ -6,7 +6,7 @@
 
 ---
 
-Kişisel Web Sitem ve Demolarım [↗](https://bulutemresakarya.github.io/)
+**Kişisel Web Sitem ve Demolarım için** [↗](https://bulutemresakarya.github.io/)
 
 ### 📫 Benimle İletişime Geçin
 * **LinkedIn:** www.linkedin.com/in/bulut-sakarya
