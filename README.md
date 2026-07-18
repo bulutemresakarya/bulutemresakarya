@@ -9,6 +9,6 @@
 **Kişisel Web Sitem ve Demolarım için** [↗](https://bulutemresakarya.github.io/)
 
 ### 📫 Benimle İletişime Geçin
-* [**LinkedIn**](www.linkedin.com/in/bulut-sakarya)
-* **E-posta:** sbulutemre@gmail.com
+* [**LinkedIn**](https://www.linkedin.com/in/bulut-sakarya)
+* [sbulutemre@gmail.com](mailto:sbulutemre@gmail.com)
 * **Konum:** Kartepe/Kocaeli
